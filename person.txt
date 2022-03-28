@@ -1,0 +1,22 @@
+noncitizen	ad506793-eddd-421c-b34f-bef2a623851d	arifik	safrifarizal.steven@jassal.com	Arifen	Malik	1992-06-07	FEMALE	hooters	Malaysia|Titiwangsa|Kuala Lumpur|56777	362305792
+citizen	67eab23b-d431-447f-a5b1-bd683041fe06	vtkasni	suresh25@veeran.com	V.	Kasthuriraani	2005-03-09	FEMALE	11111111	Malaysia|Segamat|Johor|79933	050309280772
+noncitizen	cbac58e8-525d-4a6f-b0ee-da6aa6c0b253	mahsien	thun.shan@gmail.com	Mah	Men	1983-06-05	MALE	scooby	Malaysia|Gambang|Pahang|39153	184263140
+citizen	6f319b8b-93f1-4695-a916-023c18f63261	johndoe	johndoe@gmail.com	John	Doe	2009-01-15	MALE	jd123	Malaysia|Precinct|Putrajaya|62021	900510253048
+noncitizen	110bec10-ce72-4e9f-94f5-3451af11f9e7	alexih	uthajudeen@aminrullah.info	Alex	Sih	1980-10-04	FEMALE	redwings	Malaysia|Lekir|Perak|34622	111891461
+citizen	b7dadc3f-21ad-4eed-878a-28bc20d76603	japple	japple@apple.com	John	Appleseed	2010-12-02	FEMALE	apple	Malaysia|Ramuan|Melaka|77714	091229293349
+citizen	256c3990-ceb2-48e1-b023-4420bdffd2da	muhamtni	fshamsudin@gmail.com	Muhammed	Kutni	1985-06-28	MALE	albert	Malaysia|Tanjung|Sarawak|98380	850628591731
+personnel	4a25b70b-679c-4880-9c09-f0b6b00cf50b	admin	admin@mojang.edu	Admin	Doe	2021-11-23	FEMALE	admin	Malaysia|Simpang|Melaka|75957
+personnel	2a25b70b-679c-4880-9c09-f0b6b00cf50b	ore	pekora@towa.matsuri	Usadaa	Pekoraa	1960-01-15	FEMALE	pekora	Malaysia|Batu|Selangor Darul Ehsan|40429
+personnel	6a25b70b-679c-4880-9c09-f0b6b00cf50b	tomura	plf@gmail.com	Tomura	Shigaraki	2000-01-01	MALE	shigaraki	Malaysia|Batu|Melaka|77542
+noncitizen	d1892264-3bfb-4fb9-a00b-16051785c2ae	muqsit	notmuqsit@gmail.com	Muqsit	Rayyan	2001-01-24	MALE	muqsit	Malaysia|George Town|Penang|39493	2342323423
+noncitizen	50591e1b-6a85-401f-bba4-c30268038771	balaam	thew.nazari@gmail.com	Balasubramaniam	Dairiam	2007-04-17	MALE	monster	Malaysia|Kluang|Johor Darul Ta'zim|82115	612358151
+noncitizen	af0a9759-9272-40ae-a7c2-27a147571c96	grammya	syukran.sangeeta@gmail.com	G.	Ramya	2011-03-14	FEMALE	1992	Malaysia|Iskandar|Johor|86161	264770658
+noncitizen	79bff72a-bfa7-46fe-b3b5-86130348606d	luositfat	pushpa.nayar@hotmail.com	Luo	Fat	1999-06-06	FEMALE	mike	Malaysia|Batu|Melaka|78125	758898005
+citizen	e76f3973-6aca-4b86-8631-e84451b1953b	melindamy	uzamri@yahoo.com	Melinder	Kuppusamy	1996-11-22	FEMALE	indian	Malaysia|Batu|Labuan|87026	961122223328
+citizen	9a8f5aa2-4409-4076-aba7-51f85dc74a59	yewxiam	sutheaswari32@parthiban.info	Yew	Lam	2002-02-08	MALE	gators	Malaysia|Lenggong|Perak|35842	020208050405
+noncitizen	6be1de30-2a2a-4b9c-bc2c-a97fb2f3f334	chiewben	pamin@tan.org	Chiew	Chen	1990-04-11	MALE	kermit	Malaysia|Batu|Melaka|77542	835403338
+citizen	eef0781b-d791-4951-be76-fea8a6661a06	xionghien	stephen49@gmail.com	Xiong	Thien	2012-04-14	MALE	1988	Malaysia|Bingkor|Sabah|89159	120414380823
+noncitizen	ed1726e2-68c6-4ea4-bb5b-d407bfc2c03f	nurmysat	xphoon@ling.com	Nur	Kemat	1994-05-01	MALE	arthur	Malaysia|Layang-Layang|Labuan|87011	903877008
+citizen	40c0337e-816c-4476-917e-beb46837d6ee	thanira	yen.melinda@hotmail.com	Thanuja	Pereira	1992-11-09	FEMALE	vikings	Malaysia|Rancha-Rancha|Labuan|87030	921109261788
+citizen	a7fad38d-f603-42d3-9146-9720d49f4ae6	jesszou	bahari.nadia@yahoo.com	Jesseca	Zou	2000-10-04	FEMALE	motor	Malaysia|Lumut|Perak Darul Ridzuan|33655	001004120778
+citizen	4ac55dca-4287-467c-9d55-f0565ac1d4ea	alexio	waka.ngeh@gmail.com	Alex	Shio	2009-08-02	MALE	12345678	Malaysia|Simpang|Perak|35891	090802480921

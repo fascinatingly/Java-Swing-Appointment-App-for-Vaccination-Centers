@@ -1,0 +1,14 @@
+7394	Micron, Bukit Jawi Resort	Malaysia|Seberang Perai Selatan|Pulau Pinang|92349	3749=164,6389=463,2632=352,4923=388
+6505	Dewan Warisan, Perlis	Malaysia|Perlis|Perlis|34110	5841=49,3749=211,6389=313,2632=151,1033=265,4923=123
+9194	Stadium Tertutup Samarahan	Malaysia|Samarahan|Sarawak|94300	3749=257,6389=184,2632=277,4923=405
+6955	Klinik Kesihatan Kota Damansara	Malaysia|Petaling|Selangor|47810	3749=285,6389=164,2632=485,7834=75
+4076	CIDB Convention Centre	Malaysia|Kuala Lumpur|W.P. Kuala Lumpur|55200	5841=284,2632=469,1033=329,7834=275,4923=382
+2188	Keysight Technologies	Malaysia|Barat Daya|Pulau Pinang|11900	3749=414,1033=427,7834=283,4923=406
+1294	Setia Eco Templer, Rawang	Malaysia|Gombak|Selangor|48000	5841=156,3749=375,2632=387,1033=73,7834=175,4923=336
+1104	Jabil Penang (Plant 1)	Malaysia|Barat Daya|Pulau Pinang|11900	5841=441,3749=254,6389=269,2632=88,1033=29,7834=84,4923=409
+2737	Dewan Kejora, Pangkor	Malaysia|Manjung|Perak|32300	5841=260,1033=387,7834=373,4923=258
+6134	Jabatan Kesihatan Negeri Sabah (Pacific Sutera)	Malaysia|Kota Kinabalu|Sabah|88100	6389=275,2632=394,7834=325,4923=404
+7287	Dewan Canseleri Sultan Haji Ahmad Shah, Drb Hicom	Malaysia|Pekan|Pahang|26607	5841=298,6389=170,2632=64,1033=73,7834=90,4923=452
+2903	Kompleks Dewan Kuliah Pusat 13 & 14, UMS	Malaysia|Kota Kinabalu|Sabah|88400	3749=128,6389=241,2632=211,4923=313
+5341	Dewan Hakka	Malaysia|Sandakan|Sabah|90000	5841=194,3749=190,6389=398,2632=351,1033=219,7834=442,4923=138
+9277	RAPID Petronas Pengerang	Malaysia|Kota Tinggi|Johor|23940	5841=127,3749=172,6389=314,2632=51,1033=420,7834=106,4923=288

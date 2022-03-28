@@ -1,0 +1,7 @@
+5841	Oxford/AstraZeneca	2	56
+3749	CanSino	1	67
+6389	Sinopharm (Beijing)	2	21
+2632	Pfizer/BioNTech	2	21
+1033	Moderna	2	28
+7834	Sinovac	2	14
+4923	Janssen (Johnson & Johnson)	1	60
