@@ -25,7 +25,7 @@ Multithreading using Thread objects
 
 Runnable objects for lambda expressions used for temporary scope methods for several events.
 ![image](https://user-images.githubusercontent.com/102264544/160498190-acf3e3da-7cf5-4942-9971-f5f80e46c990.png)
-![image](https://user-images.githubusercontent.com/102264544/160498201-884e6559-0277-4d13-9dad-c6ddc9651e3f.png)
+![image](https://user-images.githubusercontent.com/102264544/160502309-a79944e5-61af-4e80-a069-6524e32dfc4f.png)
 
 Parsing identifier, gender, state, and date of birth using identification card. (Inspired by the Malaysian MyKad, any MyKad can be parsed for these details)
 Dynamic appointment handling greying out unavailable (taken) appointments.
