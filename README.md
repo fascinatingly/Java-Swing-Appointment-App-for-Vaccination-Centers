@@ -8,18 +8,18 @@ This project was built in Intellij IDEA using Java, Maven, and Swing.
 Content:
 #### I- Summary
 #### II- Features
-#### III- Acknoledgements
-#### IV- Class and Use-Case Diagrams
+#### III- Acknowledgements
+#### IV- Design
 #### V- Demo Output
-#### V- Acknowledgements
 
 
+# I- Summary
 
 It is basically a COVID-19 vaccination-management-themed application through which:
 1- a patient can login/signup, select a vaccination center, select a vaccine in-stock, schedule an appointment, manage profile, etc.
 2- an admin can login, restock vaccines in a vaccination center, update appointment enum status, manage users, add/remove/edit vaccine or vaccination center details, and more.
 
-Features include:
+# II- Features:
 
 Multithreading using Thread objects
 
@@ -39,13 +39,13 @@ Comprehensive exception handling.
 
 
 
-# Acknowledgements
+# III- Acknowledgements
 
 Thanks to LGoodDatePicker for the excellent date and time Swing Components.
 https://github.com/LGoodDatePicker/LGoodDatePicker
 
 
-# Design
+# IV- Design
 
 ## Class Diagram
 
@@ -56,7 +56,7 @@ https://github.com/LGoodDatePicker/LGoodDatePicker
 ![image](https://user-images.githubusercontent.com/102264544/160496772-d33fda7e-336f-4762-9a13-2d877e16863a.png)
 
 
-# IV- Demo Output
+# V- Demo Output
 
 There are two types of accounts, a personnel account and a person account
 
